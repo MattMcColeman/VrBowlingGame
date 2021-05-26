@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 56353301}
   - component: {fileID: 56353300}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Cube Table
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -619,7 +619,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &385633050
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1893,7 +1893,7 @@ GameObject:
   - component: {fileID: 1934425880}
   - component: {fileID: 1934425885}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Sphere Bowling Ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2190,7 +2190,7 @@ GameObject:
   - component: {fileID: 2142292086}
   - component: {fileID: 2142292085}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Cube Lane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2300,7 +2300,7 @@ PrefabInstance:
     - target: {fileID: 5599102239728235178, guid: 293f8317b8a150f4a9e39dd0de74414a,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9165231939541591243, guid: 293f8317b8a150f4a9e39dd0de74414a,
         type: 3}
